@@ -1,1 +1,1 @@
-*Emphasize* _0day with vagrant_
+*0day with vagrant*
